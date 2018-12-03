@@ -3,12 +3,12 @@ This A Anonymous And Secure File Uploading Service...
 And You Don't Need Any Links To Download Or Upload
 # HELP
 To Upload File Type
-```python2 anonfiles.py -u filename
+```python2 anonfiles.py -u filename```
 To Download Files
-```python2 anonfiles.py -d key
+```python2 anonfiles.py -d key```
 
 You also type 
-```python2 anonfiles.py
+```python2 anonfiles.py```
 
 For Fetailed Info....
 # NOTES
