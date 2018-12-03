@@ -1,3 +1,4 @@
+import sys
 import os
 import urllib2
 
@@ -9,20 +10,24 @@ def upload():
 	        print "Try Again !!!"
 	        print "Press Enter To Continue..."
 	        raw_input()
-	        continue
-	k=os.popen('curl ')
-	print 'Your Secret Code To download file is: '+k
+	        return
+	k=os.popen('curl -F \'file=@'+ifile+'\' https://0x0.st')
+	a=k.read()
+	k.close()
+	print 'Your Secret Code To download file is: '+a[15:len(a)]
+	return
 
 def download():
 	key=raw_input('Enter the Key To Download the file : ')
-	url='https://0x0st/'+strip(key)+'.txt'
+	
+	url='https://0x0.st/'+key.strip()
 	if urllib2.urlopen(url).code == 200:
 		print 'File Found !!!'
 		fn=raw_input('Enter File Name ( With Extension) to save: ')
 		os.system('curl '+url+' -o '+fn)
 	else:
 		print 'File Not Found !!'
-		print 'Remember files Last only for 30 days in free version')
+		print 'Remember files Last only for 30 days in free version'
 
 while True:
 	os.system('figlet -f ascii12 AnonFiles')
@@ -30,7 +35,7 @@ while True:
 	print 'Press 2 to download file'
 	print 'Press 3 to exit'
 	ip=raw_input('->')
-	ip=strip(ip)
+	ip=ip.strip()
 	if ip=='1':
 		upload()
 	elif ip=='2':
@@ -41,3 +46,4 @@ while True:
 	else:
 		print 'Invalid Input !!\nTry Again!!\nPress Enter To Continue...'
 		raw_input()
+
