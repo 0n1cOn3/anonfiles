@@ -1,25 +1,35 @@
 # AnonFiles
 This A Anonymous And Secure File Uploading Service...
 And You Don't Need Any Links To Download Or Upload
+
+This Project is in Alpha Stage!!
+Although No issue has been reported yet;-)
+
+WARNING: Only For Geeks !!!
+
 # HELP
-To Upload File Type
+Make Sure You Have curl installed....
+To Upload File
 ```python2 anonfiles.py -u filename```
-To Download Files
+
+To Download File
 ```python2 anonfiles.py -d key```
 
 You also type 
 ```python2 anonfiles.py```
 
-For Fetailed Info....
 # NOTES
 
  NOTE: It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.
 
- For Any Queries Mail Me!!!
- 
+ For Any Queries Join Me On WhatsApp!!!
+          Group Link: http://bit.do/thespeedxgit
+  <a href="http://bit.do/thespeedxgit">Join My Group</a>
+
            Mail: ggspeedx29@gmail.com
-           
-  Facebook Page: https://www.facebook.com/GyanaTech
+
+           YouTube Channel: https://www.youtube.com/c/GyanaTech
+  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
   
   To Support Me By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
           
@@ -29,8 +39,11 @@ For Fetailed Info....
 
 # CONTACT
 
- For Any Queries Mail Me!!!
- 
+ For Any Queries Join Me On WhatsApp!!!
+          Group Link: http://bit.do/thespeedxgit
+  <a href="http://bit.do/thespeedxgit">Join My Group</a>
+
            Mail: ggspeedx29@gmail.com
-           
-        Facebook Page: https://www.facebook.com/GyanaTech
+
+           YouTube Channel: https://www.youtube.com/c/GyanaTech
+  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
