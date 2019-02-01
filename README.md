@@ -8,7 +8,17 @@ Although No issue has been reported yet;-)
 WARNING: Only For Geeks !!!
 
 # HELP
-Make Sure You Have curl installed....
+
+### For Linux
+```sudo apt-get install python2 curl```
+
+### For Termux or Terminal Emulator
+```apt install python2 curl```
+
+
+To Install urllib2
+```pip2 install urllib2```
+
 To Upload File
 ```python2 anonfiles.py -u filename```
 
