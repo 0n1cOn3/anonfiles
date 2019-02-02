@@ -25,8 +25,10 @@ Now for the dependencies:
 ```sudo apt-get install python2 curl```
 
 ### For Termux or Terminal Emulator
+
 ```apt install python2 curl```
 
+### Usage:
 
 To Install urllib2
 ```pip2 install urllib2```
@@ -63,7 +65,6 @@ Thanks!
 
  For Any Queries Join Speedx Query On WhatsApp!!!
           Group Link: http://bit.do/thespeedxgit
-  <a href="http://bit.do/thespeedxgit">Join TheSpeedXGit Group</a>
 
            Mail: ggspeedx29@gmail.com
 
