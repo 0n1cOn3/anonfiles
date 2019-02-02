@@ -8,7 +8,7 @@ There will be no Link generated for sharing.
 
 WARNING: Only For Geeks !!!
 
-# HELP
+# Installation
 
 ### For macOS
  
@@ -29,7 +29,7 @@ Now the dependencies:
 
 ```apt install python2 curl```
 
-### Usage:
+# Usage:
 
 To Install urllib2
 ```pip2 install urllib2```
@@ -60,8 +60,6 @@ You also type
           
           Mail: ggspeedx29@gmail.com
           
-Thanks!
-
 # CONTACT
 
  For Any Queries Join Speedx Query On WhatsApp!!!
@@ -71,3 +69,5 @@ Thanks!
 
            YouTube Channel: https://www.youtube.com/c/GyanaTech
   <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+
+Thank you.
