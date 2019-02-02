@@ -43,7 +43,7 @@ To Download File
 You also type 
 ```python2 anonfiles.py```
 
-# NOTES
+# Notes
 
  NOTE: It is Only For Educational Purposes. Neither I Say Nor else Promote To Do Anything Illegal!
 
@@ -60,7 +60,7 @@ You also type
           
           Mail: ggspeedx29@gmail.com
           
-# CONTACT
+# Contact
 
  For Any Queries Join Speedx Query On WhatsApp!!!
           Group Link: http://bit.do/thespeedxgit
