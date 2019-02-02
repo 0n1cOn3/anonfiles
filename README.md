@@ -1,9 +1,10 @@
 # AnonFiles
-This A Anonymous And Secure File Uploading Service...
-And You Don't Need Any Links To Download Or Upload
+AnonFiles is a Anonymous And Secure File Uploading Service.
+There will be no Link generated for sharing.
 
-This Project is in Alpha Stage!!
-Although No issue has been reported yet;-)
+### This Project is in Alpha Stage!!
+
+- Although No issue has been reported yet;-)
 
 WARNING: Only For Geeks !!!
 
@@ -13,11 +14,11 @@ WARNING: Only For Geeks !!!
  
 Install Brew for macOS
 
-Open the terminal and write this Code down and hit enter:
+Open the terminal and write this Code down or Copy&Paste and hit enter:
 
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
-Now for the dependencies:
+Now the dependencies:
 
 ```brew install python2 && brew install curl```
 
