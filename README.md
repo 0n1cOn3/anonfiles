@@ -40,7 +40,7 @@ To Upload File
 To Download File
 ```python2 anonfiles.py -d key```
 
-You also type 
+You can also type 
 ```python2 anonfiles.py```
 
 # Notes
