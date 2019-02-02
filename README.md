@@ -29,7 +29,7 @@ Now the dependencies:
 
 ```apt install python2 curl```
 
-# Usage:
+# Usage
 
 To Install urllib2
 ```pip2 install urllib2```
