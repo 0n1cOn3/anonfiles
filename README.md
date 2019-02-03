@@ -58,6 +58,7 @@ You can also type
            YouTube Channel: https://www.youtube.com/c/GyanaTech
 
 To Support SpeedX by either helping in his project, join the Whatsapp Group or make a E-Mail.
-a small amount of Donating will help me, to continue this project. Would you like to pay? Then send SpeedX a E-Mail for further details.
+A small amount of Donating will help SpeedX, to continue this project. 
+Would you like to pay? Then send SpeedX a E-Mail for further details.
 
-Thank you.
+Thanks :-)
