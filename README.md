@@ -46,20 +46,7 @@ You can also type
 # Notes
 
  NOTE: It is Only For Educational Purposes. Neither I Say Nor else Promote To Do Anything Illegal!
-
- For Any Queries Join Me On WhatsApp!!!
-          Group Link: http://bit.do/thespeedxgit
-  <a href="http://bit.do/thespeedxgit">Join My Group</a>
-
-           Mail: ggspeedx29@gmail.com
-
-           YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check Speedx's Channel</a>
-  
-  To Support SpeedX By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
-          
-          Mail: ggspeedx29@gmail.com
-          
+      
 # Contact
 
  For Any Queries Join Speedx Query On WhatsApp!!!
@@ -69,5 +56,9 @@ You can also type
 
            YouTube Channel: https://www.youtube.com/c/GyanaTech
   <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+  
+   To Support SpeedX By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
+          
+          Mail: ggspeedx29@gmail.com
 
 Thank you.
