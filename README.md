@@ -56,7 +56,7 @@ You can also type
            YouTube Channel: https://www.youtube.com/c/GyanaTech
   <a href="https://www.youtube.com/c/GyanaTech">Check Speedx's Channel</a>
   
-  To Support SppedX By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
+  To Support SpeedX By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
           
           Mail: ggspeedx29@gmail.com
           
