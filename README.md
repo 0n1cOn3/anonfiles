@@ -56,8 +56,8 @@ You can also type
            Mail: ggspeedx29@gmail.com
 
            YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
-  
-   To Support SpeedX By Either Helping In Project Or Donating Small Amount To Me For That Contact Me over E-Mail or Whatapp Group.
+
+To Support SpeedX by either helping in his project, join the Whatsapp Group or make a E-Mail.
+a small amount of Donating will help me, to continue this project. Would you like to pay? Then send SpeedX a E-Mail for further details.
 
 Thank you.
